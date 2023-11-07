@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-python-api-container
-          image: uumar/python_api:latest
+          image: uumar/python_api:1699359591
           ports:
             - containerPort: 5000
 
